@@ -1,4 +1,3 @@
-# Hospital-Emergency-Dashboard
 # Hospital Emergency Room Analysis Dashboard – Excel
 
 This project delivers a robust visual dashboard to track and analyze key operational metrics for a hospital emergency room. The dashboard helps stakeholders monitor performance, uncover patterns, and make informed decisions to enhance patient care and efficiency.
@@ -44,13 +43,13 @@ The objective is to create a comprehensive Hospital Emergency Room Analysis Dash
 ## Folder Contents
 
 - <img width="1432" height="571" alt="Screenshot 2025-08-04 213229" src="https://github.com/user-attachments/assets/b42ee7e0-1120-47ef-b453-f11512fd81cb" />
-` – Main dashboard with demographics and department analysis.
+                                          ` – Main dashboard with demographics and department analysis.
 - <img width="1196" height="538" alt="Screenshot 2025-08-04 213248" src="https://github.com/user-attachments/assets/a2adf8d5-2897-4a6a-b90c-8867e3ee5cce" />
-` – Area chart: Daily patient count trends.
+                                                 ` – Area chart: Daily patient count trends.
 - <img width="1230" height="531" alt="Screenshot 2025-08-04 213324" src="https://github.com/user-attachments/assets/bd30671c-65d2-4233-a0b7-212182089929" />
-` – Area chart: Daily satisfaction scores.
+                                                 ` – Area chart: Daily satisfaction scores.
 - <img width="1136" height="511" alt="Screenshot 2025-08-04 213339" src="https://github.com/user-attachments/assets/6d012cde-6525-4959-976d-7f7246d7a357" />
-` – Area chart: Daily average wait times.
+                                                  ` – Area chart: Daily average wait times.
 
 ---
 
