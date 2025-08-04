@@ -43,13 +43,13 @@ The objective is to create a comprehensive Hospital Emergency Room Analysis Dash
 
 ## Folder Contents
 
-- `<img width="1432" height="571" alt="Screenshot 2025-08-04 213229" src="https://github.com/user-attachments/assets/b42ee7e0-1120-47ef-b453-f11512fd81cb" />
+- <img width="1432" height="571" alt="Screenshot 2025-08-04 213229" src="https://github.com/user-attachments/assets/b42ee7e0-1120-47ef-b453-f11512fd81cb" />
 ` – Main dashboard with demographics and department analysis.
-- `<img width="1196" height="538" alt="Screenshot 2025-08-04 213248" src="https://github.com/user-attachments/assets/a2adf8d5-2897-4a6a-b90c-8867e3ee5cce" />
+- <img width="1196" height="538" alt="Screenshot 2025-08-04 213248" src="https://github.com/user-attachments/assets/a2adf8d5-2897-4a6a-b90c-8867e3ee5cce" />
 ` – Area chart: Daily patient count trends.
-- `<img width="1230" height="531" alt="Screenshot 2025-08-04 213324" src="https://github.com/user-attachments/assets/bd30671c-65d2-4233-a0b7-212182089929" />
+- <img width="1230" height="531" alt="Screenshot 2025-08-04 213324" src="https://github.com/user-attachments/assets/bd30671c-65d2-4233-a0b7-212182089929" />
 ` – Area chart: Daily satisfaction scores.
-- `<img width="1136" height="511" alt="Screenshot 2025-08-04 213339" src="https://github.com/user-attachments/assets/6d012cde-6525-4959-976d-7f7246d7a357" />
+- <img width="1136" height="511" alt="Screenshot 2025-08-04 213339" src="https://github.com/user-attachments/assets/6d012cde-6525-4959-976d-7f7246d7a357" />
 ` – Area chart: Daily average wait times.
 
 ---
@@ -75,11 +75,6 @@ The objective is to create a comprehensive Hospital Emergency Room Analysis Dash
 
 ## Requirements
 
-- Microsoft Excel 2016 or newer / Power BI Desktop
+- Microsoft Excel 
 - [Optional] Power Query for data automation
 
----
-
-## License
-
-This dashboard is provided for internal analytics and improvement initiatives. Adapt or extend the template as required by your institution.
